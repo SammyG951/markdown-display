@@ -45,3 +45,4 @@ The inpiration for this project came to me because I wanted to be able to pull m
 ## Author
 
 - Github - [@SammyG951](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/in/samuel-gonzalez-iii-b8057b1a3/)
