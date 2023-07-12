@@ -17,7 +17,8 @@ This is a project I built that allows a user to either input a link to a raw mar
 
 ### Screenshot
 
-![Alt text](/images/Finished-product-screenshot.png?raw=true "Finished product")
+![Screenshot Without Content](/Screenshot-without-content.png)
+![Screenshot With Content](/Screenshot-with-content.png)
 
 ## My process
 
