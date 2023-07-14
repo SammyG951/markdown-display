@@ -1,6 +1,6 @@
 # Markdown Display  
 
-This is a project I built that allows a user to either input a link to a raw markdown file, or allows them to upload a file from their computer. Then it will display the contents of the markdown file below on the webpage. *No CSS applied*
+This is a project I built that allows a user to either input a link to a raw markdown file, or allows them to upload a file from their computer. Then it will display the contents of the markdown file below on the webpage. *No CSS applied... to see it with styles, see it at my personal site [here](https://sammyg951.github.io/CV-website/interactive-projects/markdown-display/index.html)!*
 
 ## Table of contents
 
